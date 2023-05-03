@@ -1,0 +1,3 @@
+etapa 1 do tutorial feita!
+algumas anotações confusas no txt do tutorial
+corrigir o nome das pastas de 02 para 01_tutorial, por ex
